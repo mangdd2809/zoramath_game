@@ -1,0 +1,6 @@
+{
+  "name": "ZorraMath",
+  "description": "Game petualangan belajar matematika interaktif untuk anak usia dini hingga SD dengan petualangan seru, musik, suara, dan grafis ceria. Created by @lmerGtamam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
